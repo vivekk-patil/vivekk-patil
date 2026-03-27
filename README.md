@@ -2,6 +2,8 @@
 👋 Hi, I'm VIVEK PATIL! <br><br>🎓 Education : B.Tech CSE AI '27 at GHRIEBM JALGAON.<br><br>🔭 I'm currently working on Data Science projects focusing on Data collection, preprocessing & visualization, exploratory data analysis, and building analytical dashboards using Python, Numpy, Pandas, Matplotlib, Seaborn & Machine Learning projects focusing on Supervised, Unsupervised, Reinforcement, Scikit-learn & Kaggle.<br><br>🤝 I'm looking to collaborate on open-source Data Science & Machine Learning projects, data visualization initiatives, and innovative Python-based solutions.<br><br>💛 I'm looking for help with advanced machine learning, deep learning techniques, GenAI fundamentals, and real-world data science problem-solving strategies.<br><br>🌱 I'm currently learning ML & DL, advanced Pandas operations, and exploring statistical analysis to become a proficient Data Scientist & AI/ML Specialist.<br><br>💬 Ask me about Python programming, train Machine Learning Models, Data Analysis, data visualization with Matplotlib & Seaborn, and EDA techniques.<br><br>⚡ Fun fact : I love playing Chess in my free time!<br><br>💼 Open to : Data Analyst | Data Science & Machine learning Internships | Python Development Opportunities<br><br>📍 Location : Jalgaon, Maharashtra, India<br><br>🎯 Goal : To leverage Machine learning, data science and analytical skills to solve real-world problems
 
 
+
+
 <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="120" align="right"/>
 
 
